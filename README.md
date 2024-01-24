@@ -20,7 +20,7 @@ This Machine Learning project aims to predict Flight Fares based on various inpu
 - seaborn
 
 ## Resources
-You can download the required Dataset from [here](https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh)
+You can download the required Dataset from [Flight-Fare-Prediction-Dataset](https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh)
 
 ## Contributing
 
