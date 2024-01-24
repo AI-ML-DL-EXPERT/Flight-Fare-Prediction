@@ -19,6 +19,9 @@ This Machine Learning project aims to predict Flight Fares based on various inpu
 - matplotlib
 - seaborn
 
+## Resources
+You can download the required Dataset from [here](https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh)
+
 ## Contributing
 
 Contributions to the project are welcome. Feel free to open issues, submit pull requests, or provide suggestions for improvement.
